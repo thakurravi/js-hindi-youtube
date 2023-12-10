@@ -24,10 +24,13 @@ aur upar wale se bada number k liye hum bigInt ka use karte hain
 let name = "Ravi"
 let age = "18"
 let isLoggedIn = false
-let state;
+let state1=null;
+let state2;
 console.log(typeof "Ravi");
 console.log(typeof age);
-console.log(typeof null);
-console.log(typeof undefined);
+console.log(typeof null); //it will gives object after running the code
+console.log(typeof undefined); // it will gives us undefined after running the code
+console.log(state1);
+console.log(state2);
 
  
